@@ -1,0 +1,2 @@
+alias: open2you-release
+pw: open-release

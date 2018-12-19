@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name" translatable="false">Open 2 you</string>
+    <string name="default_url" translatable="false">https://www.open.online/</string>
+</resources>
