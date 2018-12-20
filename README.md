@@ -5,3 +5,5 @@ This software is released under the GPLv3 license.
 However, I'd like to have the contributions here.
 
 Still waiting for an approval to publish it; if no answer will be given, I'll post the app code here anyways, since it's basically a WebView.
+
+APK can be found in ./app/release
